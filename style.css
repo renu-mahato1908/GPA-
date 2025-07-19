@@ -1,0 +1,97 @@
+body{
+    background:white;
+    margin:0;
+    padding:0;
+}
+
+.toparea{
+    background:#B35550;
+    padding:15px 0;
+    text-align:center;
+    color: white;
+}
+
+.logoarea{
+    background:#F2C38B;
+    padding:50px;
+    text-align: center;
+}
+
+.logoarea img{
+    width:110px;
+}
+
+.logoarea h1{
+    color:#74353F;
+}
+
+.sparea{
+    background:white;
+    padding:50px 0;
+    text-align: center;
+}
+
+.xyz{
+    width:100%;
+}
+
+.sparea p{
+    text-align: justify;
+}
+.sparea p:last-child{
+    text-align: right;
+}
+
+
+.darea{
+    background:linear-gradient(rgba(255,255,255,0.7),rgba(255,255,255,0.9)),url("library.jpg");
+    padding:50px 0;
+    text-align: center;
+    background-size: cover;
+}
+
+.darea img{
+    width: 150px;
+}
+
+.box{
+    width:100%;
+    margin:10px;
+    padding:20px;
+    background: white;
+}
+
+.box img{
+    width: 100%;
+    transition: all 2s;
+}
+
+.box:hover img{
+    transform: rotate(360deg);
+}
+
+.syllabus{
+    padding: 10px;
+    margin: 20px;
+    background: white;
+}
+
+.marea{
+    background:white;
+    padding: 50px;
+    text-align: center
+    ;
+}
+
+.footerarea{
+    background: #1C1C1C;
+    text-align: center;
+    color:white;
+}
+
+.alumniarea{
+    background: url("footer.jpg");
+    padding: 100px 0;
+    text-align: center;
+}
+
